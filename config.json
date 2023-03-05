@@ -1,0 +1,21 @@
+{
+  "APIs": {
+    "zenz": "https://api.zahwazein.xyz",
+    "apikey": "3a7dc9f90fbb"
+  },
+  "options": {
+    "autoRead": false,
+    "self": false,
+    "limitCount": 49,
+    "limitGame": 35
+  },
+  "exif": {
+    "packname": "opux",
+    "author": "comel"
+  },
+  "owner": [
+    "62811666884"
+  ],
+  "timezone": "Asia/Jakarta",
+  "footer": "Powered by Opux"
+}

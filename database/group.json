@@ -1,0 +1,16 @@
+[
+    {
+        "from": "6282172292206-1568805164@g.us",
+        "offline": false,
+        "antilink": false,
+        "badword": false,
+        "antidelete": false,
+        "detect": false,
+        "viewOnce": false,
+        "welcome": {
+            "status": false,
+            "add": "Welcome To My Group",
+            "remove": "Leave From My Group"
+        }
+    }
+]
